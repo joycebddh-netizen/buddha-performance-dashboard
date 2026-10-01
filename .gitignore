@@ -1,0 +1,9 @@
+# Nunca publicar isso no repositorio publico do GitHub Pages.
+# Só o dashboard_performance.html (o HTML final) deve ser versionado aqui.
+*.xlsx
+*.xls
+*.py
+*.bat
+*.json
+*.yaml
+*.txt
